@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d7aa59b.chunk.css",
+    "main.js": "/static/js/main.dac72116.chunk.js",
+    "main.js.map": "/static/js/main.dac72116.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f7a2a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f7a2a8.js.map",
+    "static/js/2.83a7ad8c.chunk.js": "/static/js/2.83a7ad8c.chunk.js",
+    "static/js/2.83a7ad8c.chunk.js.map": "/static/js/2.83a7ad8c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7d7aa59b.chunk.css.map": "/static/css/main.7d7aa59b.chunk.css.map",
+    "static/js/2.83a7ad8c.chunk.js.LICENSE.txt": "/static/js/2.83a7ad8c.chunk.js.LICENSE.txt",
+    "static/media/avatar.65f26a78.jpg": "/static/media/avatar.65f26a78.jpg",
+    "static/media/bov screen.c7f5cac2.png": "/static/media/bov screen.c7f5cac2.png",
+    "static/media/e-commerce.b78e7c99.png": "/static/media/e-commerce.b78e7c99.png",
+    "static/media/envelop.2e574554.svg": "/static/media/envelop.2e574554.svg",
+    "static/media/github.de052392.svg": "/static/media/github.de052392.svg",
+    "static/media/instagram.9bd6921d.svg": "/static/media/instagram.9bd6921d.svg",
+    "static/media/App.css": "/static/media/stars.249e60f8.jpg",
+    "static/media/linkedin.95ba3b56.svg": "/static/media/linkedin.95ba3b56.svg",
+    "static/media/memoji.c1260105.png": "/static/media/memoji.c1260105.png",
+    "static/media/my resume.4dd65d56.pdf": "/static/media/my resume.4dd65d56.pdf",
+    "static/media/shophere.b0e4017e.png": "/static/media/shophere.b0e4017e.png",
+    "static/media/twitter.03576904.svg": "/static/media/twitter.03576904.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f7a2a8.js",
+    "static/js/2.83a7ad8c.chunk.js",
+    "static/css/main.7d7aa59b.chunk.css",
+    "static/js/main.dac72116.chunk.js"
+  ]
+}
